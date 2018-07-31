@@ -12,7 +12,13 @@ p {
     color: green;
     font-size: 24pt;
 }
-
+#important_paragraph:hover{font-size:40pt;
+	background: yellow
+}
+.less_important_paragraphs:hover{color: blue;}
 a {
     color:red;
+}
+a:hover{background: blue
+
 }
